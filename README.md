@@ -1,4 +1,4 @@
-# Fitness Tracker
+# Fitness Tracker (Honors 5th Sem Project)
 
 ## Group Members:
 - **Arpit Kaple**
